@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Interview Question/Binary Search Interview Question.iml" filepath="$PROJECT_DIR$/Binary Search Interview Question/Binary Search Interview Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search algo/Binary Search algo.iml" filepath="$PROJECT_DIR$/Binary Search algo/Binary Search algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search in 2D Array/Binary Search in 2D Array.iml" filepath="$PROJECT_DIR$/Binary Search in 2D Array/Binary Search in 2D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubble Sorting Algo/Bubble Sorting Algo.iml" filepath="$PROJECT_DIR$/Bubble Sorting Algo/Bubble Sorting Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CycleSort/CycleSort.iml" filepath="$PROJECT_DIR$/CycleSort/CycleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear Search algo/Linear Search algo.iml" filepath="$PROJECT_DIR$/Linear Search algo/Linear Search algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math For DSA/Math For DSA.iml" filepath="$PROJECT_DIR$/Math For DSA/Math For DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OBJECT ORIENTED PROGRAMING/OBJECT ORIENTED PROGRAMING.iml" filepath="$PROJECT_DIR$/OBJECT ORIENTED PROGRAMING/OBJECT ORIENTED PROGRAMING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern Printing/Pattern Printing.iml" filepath="$PROJECT_DIR$/Pattern Printing/Pattern Printing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quick Sort/Quick Sort.iml" filepath="$PROJECT_DIR$/Quick Sort/Quick Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Array/Recursion Array.iml" filepath="$PROJECT_DIR$/Recursion Array/Recursion Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Google Question/Recursion Google Question.iml" filepath="$PROJECT_DIR$/Recursion Google Question/Recursion Google Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Permutation/Recursion Permutation.iml" filepath="$PROJECT_DIR$/Recursion Permutation/Recursion Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Subset/Recursion Subset.iml" filepath="$PROJECT_DIR$/Recursion Subset/Recursion Subset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion level 1/Recursion level 1.iml" filepath="$PROJECT_DIR$/Recursion level 1/Recursion level 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection Sort/Selection Sort.iml" filepath="$PROJECT_DIR$/Selection Sort/Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String and StringBuilder/String and StringBuilder.iml" filepath="$PROJECT_DIR$/String and StringBuilder/String and StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TranningCollege/TranningCollege.iml" filepath="$PROJECT_DIR$/TranningCollege/TranningCollege.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function and method/function and method.iml" filepath="$PROJECT_DIR$/function and method/function and method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javabootcamp.iml" filepath="$PROJECT_DIR$/javabootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum/sum.iml" filepath="$PROJECT_DIR$/sum/sum.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BackTracking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Binary Search Interview Question" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Binary Search algo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Binary Search in 2D Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bitwise Operators and number System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bubble Sorting Algo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CycleSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InsertionSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Linear Search algo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Math For DSA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NQueen Sudoku Solver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pattern Printing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quick Sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recursion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recursion Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recursion Google Question" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recursion Permutation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recursion Subset" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recursion level 1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Selection Sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sorting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/String and StringBuilder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TranningCollege" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/function and method" vcs="Git" />
+  </component>
+</project>
